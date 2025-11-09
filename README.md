@@ -1,3 +1,5 @@
 Assignment work ,Problrm Solving Questions in C programming
-Compile code: gcc Filename.c
-Execute: .exe or ./a.out (Based on Platform windows or Linux)
+/////////////////////////////////////////////////////////
+//////  Compile code: gcc Filename.c
+//////   Execute: .exe or ./a.out (Based on Platform windows or Linux)
+//////////////////////////////////////////////////////////////
