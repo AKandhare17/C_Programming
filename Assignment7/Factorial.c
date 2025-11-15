@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Time Complexity:
+//Time Complexity:O(N)
 int Factorial(int iNo)
 {
     int fact=1,iCnt=0;
@@ -25,3 +25,4 @@ int main()
     return 0;
 
 }
+
