@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Time Complexity:
+//Time Complexity:O(1)
 void Display(int iNo)
 {
     switch(iNo)
@@ -33,4 +33,5 @@ int main()
  Display(iValue);
 
     return 0;
+
 }
